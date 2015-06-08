@@ -1,0 +1,5 @@
+To use this program, specify the name 
+of the source file and the destination file. 
+For example, to copy a file called FIRST.TXT 
+to a file called SECOND.TXT, use the following 
+command line.
